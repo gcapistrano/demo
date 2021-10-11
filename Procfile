@@ -1,1 +1,1 @@
-web: gunicorn demoPipenv.wsgi --log-file -
+web: gunicorn demo.wsgi --log-file -
